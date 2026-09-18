@@ -88,8 +88,8 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zaki-ali795&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zaki Ali's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaki-ali795&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Zaki-ali795&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zaki Ali's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Zaki-ali795&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages" />
 
   <br/><br/>
 
@@ -103,12 +103,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-quotes.vercel.app/quote?theme=tokyonight&animation=border" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" alt="Dev Quote" />
 
-</div>
-
----
-
-<div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/Zaki-ali795">Muhammad Zaki Ali</a></sub>
 </div>
